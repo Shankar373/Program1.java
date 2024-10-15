@@ -140,17 +140,21 @@ print(result)
 ```
 
 ## Usage
+
 Clone this repository:
 
 
 ```
 git clone https://github.com/Shankar373/Tandemloop.git
 ```
+
 Navigate to the project directory:
 
 cd ```Tandemloop```
+
 # Run the desired program:
-```
+
+
 For Python programs, use:
 ```
 python program1.py
@@ -161,6 +165,7 @@ For Java programs, compile and run:
 javac Program2.java
 java Program2
 ```
+
 ```
 javac Program3.java
 java Program3
@@ -170,7 +175,6 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 
 ### Instructions to Use:
