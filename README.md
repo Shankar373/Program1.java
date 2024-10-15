@@ -143,14 +143,13 @@ print(result)
 
 Clone this repository:
 
-
 ```
 git clone https://github.com/Shankar373/Tandemloop.git
 ```
 
 Navigate to the project directory:
 
-cd ```Tandemloop```
+```cd Tandemloop```
 
 # Run the desired program:
 
