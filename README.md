@@ -92,6 +92,7 @@ public class Program2 {
 }
 
 ```
+
 ### Program 3: Modified Odd Number Series Generator (Java)
 This program generates a modified series of odd numbers based on user input.
 
@@ -117,12 +118,12 @@ public class Program3 {
     }
 }
 ```
-###Program 4: Count Multiples (Python)
+### Program 4: Count Multiples (Python)
 This program counts how many numbers in the input list are multiples of each number from 1 to 9.
 
-**File**: `program4.java`
+**File**: `program4.py`
 
-```java
+```python
 
 def count_multiples(arr):
     multiples_count = {i: 0 for i in range(1, 10)}
@@ -136,38 +137,43 @@ user_input = input("Enter numbers separated by commas: ")
 arr = [int(num.strip()) for num in user_input.split(',')]
 result = count_multiples(arr)
 print(result)
+```
 
-Usage
+## Usage
 Clone this repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/Tandemloop.git
+
+```
+git clone https://github.com/Shankar373/Tandemloop.git
+```
 Navigate to the project directory:
 
-
-cd Tandemloop
-Run the desired program:
-
+cd ```Tandemloop```
+# Run the desired program:
+```
 For Python programs, use:
-
+```
 python program1.py
 python program4.py
+```
 For Java programs, compile and run:
-
+```
 javac Program2.java
 java Program2
+```
+```
 javac Program3.java
 java Program3
-Contributing
+```
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, feel free to fork the repository and create a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
 ### Instructions to Use:
-- Replace `your-username` with your actual GitHub username in the clone command.
+- Replace `Shankar373` with your actual GitHub username in the clone command.
 - Feel free to modify any sections as needed to better suit your project specifics or add any other relevant information. 
 - Ensure you create a `LICENSE` file if you include the licensing section. You can choose an appro
