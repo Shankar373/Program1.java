@@ -15,10 +15,8 @@ class Calculator:
             return "Division by zero error"
 a = float(input("Enter value for a: "))
 b = float(input("Enter value for b: "))
-operation = input("Enter operation (add, subtract, multiply, divide): ")
-
+operation = input("Enter operation (ADD, SUBTRACT, MULTIPLY, DIVIDE): ").lower()  
 calc = Calculator(a, b)
-
 if operation == 'add':
     print(calc.add())
 elif operation == 'subtract':
